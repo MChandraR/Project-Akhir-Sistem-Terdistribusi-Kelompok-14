@@ -1,0 +1,1 @@
+https://tob.sgsnssdk.com/collaborate/api/ctcorp/predict/cnn_homepage_berita_terbaru

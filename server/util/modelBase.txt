@@ -1,0 +1,11 @@
+const model = require("./model");
+
+class namespace extends model{
+    constructor(){ 
+        super();
+        this.setTable('namespace');
+        this.setFillable([]); //isi kolom yang bisa diedit dalam tabel
+    }
+}
+
+module.exports = namespace;

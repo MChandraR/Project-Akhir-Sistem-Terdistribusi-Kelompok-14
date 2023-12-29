@@ -1,0 +1,7 @@
+
+
+class namespace {
+    //tulis function mu disini 
+}
+
+module.exports = namespace;
