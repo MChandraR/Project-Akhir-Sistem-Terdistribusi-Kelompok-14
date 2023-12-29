@@ -17,6 +17,8 @@ Nama Kelompok :
 
 2201020118 - Dimas Adrian Arifin
 
+Note : Untuk mencoba, aplikasi android bisa diunduh pada folder apk release
+
 
 
 
